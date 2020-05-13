@@ -12,5 +12,10 @@
             "email": "wangcb615@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "wangcb\\jwt\\": "src"
+        }
+    },
     "minimum-stability": "dev"
 }
