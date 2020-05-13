@@ -6,7 +6,7 @@
  * Time: 15:27
  */
 
-namespace wangcb;
+namespace wangcb\jwt;
 
 
 class Jwt
